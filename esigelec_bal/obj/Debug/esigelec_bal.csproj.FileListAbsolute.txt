@@ -1,0 +1,14 @@
+C:\Dotnet\esigelec_work\esigelec_bal\bin\Debug\esigelec_bal.dll
+C:\Dotnet\esigelec_work\esigelec_bal\bin\Debug\esigelec_bal.pdb
+C:\Dotnet\esigelec_work\esigelec_bal\obj\Debug\esigelec_bal.dll
+C:\Dotnet\esigelec_work\esigelec_bal\obj\Debug\esigelec_bal.pdb
+C:\Dotnet\esigelec_work\esigelec_bal\bin\Debug\esigelect_dal.dll
+C:\Dotnet\esigelec_work\esigelec_bal\bin\Debug\esigelect_dal.pdb
+C:\Dotnet\esigelec_work\esigelec_bal\obj\Debug\esigelec_bal.csprojResolveAssemblyReference.cache
+E:\ESIGELEC\ASP.Net\Project\New folder\New folder\esigelec_work\esigelec_work\esigelec_bal\bin\Debug\esigelec_bal.dll
+E:\ESIGELEC\ASP.Net\Project\New folder\New folder\esigelec_work\esigelec_work\esigelec_bal\bin\Debug\esigelec_bal.pdb
+E:\ESIGELEC\ASP.Net\Project\New folder\New folder\esigelec_work\esigelec_work\esigelec_bal\bin\Debug\esigelect_dal.dll
+E:\ESIGELEC\ASP.Net\Project\New folder\New folder\esigelec_work\esigelec_work\esigelec_bal\bin\Debug\esigelect_dal.pdb
+E:\ESIGELEC\ASP.Net\Project\New folder\New folder\esigelec_work\esigelec_work\esigelec_bal\obj\Debug\esigelec_bal.csprojResolveAssemblyReference.cache
+E:\ESIGELEC\ASP.Net\Project\New folder\New folder\esigelec_work\esigelec_work\esigelec_bal\obj\Debug\esigelec_bal.dll
+E:\ESIGELEC\ASP.Net\Project\New folder\New folder\esigelec_work\esigelec_work\esigelec_bal\obj\Debug\esigelec_bal.pdb
